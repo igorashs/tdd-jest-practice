@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/igorashs/tdd-jest-practice#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.6.3",
     "jest": "^24.9.0"
   }
 }
