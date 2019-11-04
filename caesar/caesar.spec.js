@@ -14,11 +14,11 @@ it('text is wrapped', () => {
 });
 
 it('text keeps the same case', () => {
-  expect(caesar('ZoO'), 2).toBe('BqQ');
+  expect(caesar('ZoO', 2)).toBe('BqQ');
 });
 
 it('text keeps punctuation', () => {
-  expect(caesar("Ohm, i don't know!"), 1).toBe("Pin, j epo'u lopx!");
+  expect(caesar("Ohm, i don't know!", 1)).toBe("Pin, j epo'u lopx!");
 });
 
 it('returns an empty string with falsy params', () => {
