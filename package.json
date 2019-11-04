@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/igorashs/tdd-jest-practice/issues"
   },
-  "homepage": "https://github.com/igorashs/tdd-jest-practice#readme"
+  "homepage": "https://github.com/igorashs/tdd-jest-practice#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
