@@ -5,7 +5,7 @@
 > TDD practice using Jest
 
 - ### Assignments
-- [ ] `capitalize(string)`
+- [+] `capitalize(string)`
 - [ ] `reverseString(string)`
 - [ ] `calculator` (`add|subtract|divide|multiply`)
 - [ ] `Caesar Cipher`
