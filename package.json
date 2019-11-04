@@ -1,0 +1,19 @@
+{
+  "name": "tdd-jest-practice",
+  "version": "1.0.0",
+  "description": "Testing Practice Project from TOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorashs/tdd-jest-practice.git"
+  },
+  "author": "igorash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igorashs/tdd-jest-practice/issues"
+  },
+  "homepage": "https://github.com/igorashs/tdd-jest-practice#readme"
+}
