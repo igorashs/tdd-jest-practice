@@ -6,7 +6,7 @@
 
 - ### Assignments
 - [x] `capitalize(string)`
-- [ ] `reverseString(string)`
+- [x] `reverseString(string)`
 - [ ] `calculator` (`add|subtract|divide|multiply`)
 - [ ] `Caesar Cipher`
 - [ ] `Array Analysis`
