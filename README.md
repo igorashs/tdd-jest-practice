@@ -8,5 +8,5 @@
 - [x] `capitalize(string)`
 - [x] `reverseString(string)`
 - [x] `calculator` (`add|subtract|divide|multiply`)
-- [ ] `Caesar Cipher`
+- [x] `Caesar Cipher`
 - [ ] `Array Analysis`
