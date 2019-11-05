@@ -9,4 +9,4 @@
 - [x] `reverseString(string)`
 - [x] `calculator` (`add|subtract|divide|multiply`)
 - [x] `Caesar Cipher`
-- [ ] `Array Analysis`
+- [x] `Array Analysis`
